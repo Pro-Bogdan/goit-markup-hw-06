@@ -325,10 +325,13 @@ body {
   justify-content: center;
 }
 
+.footer-label-email {
+  margin-right: 24px;
+}
+
 .footer-input-email {
   width: 264px;
   height: 40px;
-  margin-right: 24px;
   padding-left: 16px;
 
   font-weight: 400;
